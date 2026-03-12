@@ -67,7 +67,7 @@ Self-supervised learning and Foundation Models - CLIP, DINO
 
 ## Reinforcement Learning & Control
 
-Slides, coding experiments, and bonus material on Kalman Filters and Imitation Learning.  
+Slides, coding experiments, and bonus material.  
 
 RL1 - Motivation  
 RL2 - Fundamentals of RL  
