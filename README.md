@@ -53,7 +53,7 @@ Also includes a probability theory primer for machine learning.
 
 Topics include:
 UL1 - Overview
-UL2 - Explicit and Approximation Models - AR, Flow, VAE 
+UL2 - Explicit and Approximation Models - AR, Flow, VAE
 UL3 - Implicit Models - GANS
 UL4 - Representations
 
@@ -76,14 +76,9 @@ RL6 - Model Based Approach
 RL7 - Function Approximation
 RL8 - Policy Gradient
 RL9 - Core RL Algorithms
-RL10 - Visual Control (Guided Policy Search, DQN, DrQ-v2, Dreamer-v3) 
-RL11 - Simulations (HVS fundamentals and Current usage)) 
+RL10 - Visual Control (Guided Policy Search, DQN, DrQ-v2, Dreamer-v3)
+RL11 - Simulations (HVS fundamentals and Current usage)
 
-• Dynamic programming and planning  
-• Model-free prediction and control  
-• Policy gradient methods  
-• Model-based RL  
-• Visual control systems  
 
 Coding experiments include implementations of:
 
