@@ -17,7 +17,7 @@ This portfolio complements that work by documenting the underlying system archit
 
 System-level breakdown of modern camera pipelines including:
 
-• Real-time video architecture 
+• Real-time video architecture   
 • Latency and bandwidth  
 • Optics and image sensor fundamentals  
 • ISP pipelines  
