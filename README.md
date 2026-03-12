@@ -52,14 +52,16 @@ Also includes a probability theory primer for machine learning.
 ## Unsupervised & Representation Learning
 
 Topics include:
-UL1 - Overview
-UL2 - Explicit and Approximation Models - AR, Flow, VAE
-UL3 - Implicit Models - GANS
-UL4 - Representations
 
-Current Deep(er) dives: 
-Image generation   
-Self-supervised learning and Foundation Models - CLIP, DINO  
+UL1 - Overview  
+UL2 - Explicit and Approximation Models - AR, Flow, VAE  
+UL3 - Implicit Models - GANS  
+UL4 - Representations  
+
+Current Deep(er) dives:
+
+Image generation     
+Self-supervised learning and Foundation Models - CLIP, DINO    
 
 ---
 
@@ -67,17 +69,17 @@ Self-supervised learning and Foundation Models - CLIP, DINO
 
 Slides, coding experiments, and bonus material on Kalman Filters and Imitation Learning.  
 
-RL1 - Motivation
-RL2 - Fundamentals of RL
-RL3 - Planning and Dynamic Programming
-RL4 - Model Free Prediction
-RL5 - Model Free Control
-RL6 - Model Based Approach
-RL7 - Function Approximation
-RL8 - Policy Gradient
-RL9 - Core RL Algorithms
-RL10 - Visual Control (Guided Policy Search, DQN, DrQ-v2, Dreamer-v3)
-RL11 - Simulations (HVS fundamentals and Current usage)
+RL1 - Motivation  
+RL2 - Fundamentals of RL  
+RL3 - Planning and Dynamic Programming  
+RL4 - Model Free Prediction  
+RL5 - Model Free Control  
+RL6 - Model Based Approach  
+RL7 - Function Approximation  
+RL8 - Policy Gradient  
+RL9 - Core RL Algorithms  
+RL10 - Visual Control (Guided Policy Search, DQN, DrQ-v2, Dreamer-v3)  
+RL11 - Simulations (HVS fundamentals and Current usage)  
 
 
 Coding experiments include implementations of:
