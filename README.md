@@ -58,7 +58,7 @@ UL2 - Explicit and Approximation Models - AR, Flow, VAE
 UL3 - Implicit Models - GANS  
 UL4 - Representations  
 
-Current Deep(er) dives:
+"Additional Coverage":
 
 Image generation     
 Self-supervised learning and Foundation Models - CLIP, DINO    
@@ -91,7 +91,7 @@ REINFORCE
 Diffusion model  
 Variational Autoencoder  
 
-Additional material covering Kalman Filtering and Imitation Learning.
+Additional bonus material covering Kalman Filtering and Imitation Learning.
 
 ---
 
