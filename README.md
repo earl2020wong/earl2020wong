@@ -91,13 +91,20 @@ REINFORCE
 Diffusion model  
 Variational Autoencoder  
 
-Additional material covers Kalman Filtering and Imitation Learning.
+Additional material covering Kalman Filtering and Imitation Learning.
 
 ---
 
 # Philosophy
 
 I believe strong engineers should understand systems from first principles.
+
+I believe in "learn by doing".  
+
+1) Understand at a level, so that you can teach the material.
+2) Transition to building.  Knowledge is great, but products are better.
+3) During 2) you will realize (and gain deep appreciation for) the intricacies of 1).  
+4) Once you have mastered 1-3) for Subject A, move to Subject B, and repeat 1) - 3), etc.       
 
 This portfolio reflects a structured effort to build deep understanding across:
 
