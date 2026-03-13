@@ -114,7 +114,8 @@ Coding experiments include implementations of:
 - Diffusion models  
 - Variational Autoencoders  
 
-Additional bonus material includes Kalman filtering and imitation learning.
+Additional bonus material includes Kalman filtering and 
+Imitation learning.
 
 ---
 
@@ -124,7 +125,7 @@ I believe strong engineers should understand **complex systems from first princi
 
 I also believe strongly in **learning by building**.
 
-1. Understand a subject deeply enough that you can teach it.  
+1. Understand a subject deeply enough, so that you can teach it.  
 2. Transition from theory to building systems.  
 3. During the process of building, the subtleties and constraints of the theory become much clearer.  
 4. Once this cycle is complete for one domain, repeat the process for the next.  
