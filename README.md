@@ -83,7 +83,8 @@ Topics include:
 
 Additional coverage includes:
 
-- Image generation  
+- Machine Learning Primer (Classical Machine Learning - pre deep learning era)
+- Image generation (High Level Walk Through, X Minute Read)  
 - Self-supervised learning and foundation models (CLIP, DINO)
 
 ---
@@ -108,14 +109,14 @@ Slides, coding experiments, and supporting material.
 Coding experiments include implementations of:
 
 - DQN  
-- PPO (successor of TRPO)  
+- PPO (successor / engineering version of TRPO)  
 - A2C  
 - REINFORCE  
-- Diffusion models  
-- Variational Autoencoders  
+- Diffusion model  
+- Variational Autoencoder  
 
-Additional bonus material includes Kalman filtering and 
-Imitation learning.
+Additional bonus material on Kalman Filtering and 
+Imitation Learning.
 
 ---
 
