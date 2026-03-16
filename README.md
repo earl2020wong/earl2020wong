@@ -77,14 +77,14 @@ Repository: [https://github.com/earl2020wong/unsupervisedLearning](https://githu
 Topics include:
 
 - UL1 – Overview  
-- UL2 – Explicit and Approximation Models (AR, Flow, VAE)  
-- UL3 – Implicit Models (GANs)  
-- UL4 – Representation Learning  
+- UL2 – Explicit and approximation models (AR, Flow, VAE)  
+- UL3 – Implicit models (GANs)  
+- UL4 – Representation learning  
 
 Additional coverage includes:
 
-- Machine Learning Primer (Classical Machine Learning - pre deep learning era)
-- Image generation (High Level Walk Through, X Minute Read)  
+- Machine learning primer (Classical machine learning - pre deep learning era)
+- Image generation (High level walk through, X minute read)  
 - Self-supervised learning and foundation models (CLIP, DINO)
 
 ---
@@ -95,16 +95,16 @@ Repository: [https://github.com/earl2020wong/reinforcementLearning](https://gith
 Slides, coding experiments, and supporting material.
 
 - RL1 – Motivation  
-- RL2 – Fundamentals of Reinforcement Learning  
-- RL3 – Planning and Dynamic Programming  
-- RL4 – Model-Free Prediction  
-- RL5 – Model-Free Control  
-- RL6 – Model-Based Approaches  
-- RL7 – Function Approximation  
-- RL8 – Policy Gradient Methods  
-- RL9 – Core Reinforcement Learning Algorithms  
-- RL10 – Visual Control (Guided Policy Search, DQN, DrQ-v2, Dreamer-v3)  
-- RL11 – Simulation Environments (HVS fundamentals and current usage)  
+- RL2 – Fundamentals of reinforcement learning  
+- RL3 – Planning and dynamic programming  
+- RL4 – Model-free prediction  
+- RL5 – Model-free control  
+- RL6 – Model-based approaches  
+- RL7 – Function approximation  
+- RL8 – Policy gradient methods  
+- RL9 – Core reinforcement learning algorithms  
+- RL10 – Visual control (Guided policy search, DQN, DrQ-v2, Dreamer-v3)  
+- RL11 – Simulation environments (HVS fundamentals and current usage)  
 
 Coding experiments include implementations of:
 
@@ -112,11 +112,11 @@ Coding experiments include implementations of:
 - PPO (successor / engineering version of TRPO)  
 - A2C  
 - REINFORCE  
-- Diffusion model  
-- Variational Autoencoder  
+- Diffusion (baseline model)  
+- Variational autoencoder  
 
-Additional bonus material on Kalman Filtering and 
-Imitation Learning.
+Additional bonus material on Kalman filtering (KF) and 
+Imitation learning (IL). 
 
 ---
 
