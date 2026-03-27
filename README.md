@@ -4,7 +4,7 @@ Computational Imaging | Machine Learning Systems | Real-Time Vision
 
 This repository documents a technical portfolio focused on computational imaging, machine learning systems, and real-time perception pipelines under practical deployment constraints. 
 
-The material captures first-principles understanding of camera systems and modern machine learning methods used in visual perception and video processing, with an emphasis on how image data is transformed into structured representations for downstream tasks.  
+The material captures first-principles understanding of camera systems and modern machine learning methods used in visual perception and video processing.  
 
 My professional work focuses on designing and shipping end-to-end camera and vision features in production systems.
 
