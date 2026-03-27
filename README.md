@@ -2,9 +2,9 @@
 **Earl Wong**  
 Computational Imaging | Machine Learning Systems | Real-Time Vision
 
-This repository documents a technical portfolio focused on computational imaging, machine learning systems, and real-time vision pipelines.
+This repository documents a technical portfolio focused on computational imaging, machine learning systems, and real-time perception pipelines under practical deployment constraints. 
 
-The material captures first-principles understanding of camera systems and modern machine learning methods used in visual perception and video processing.
+The material captures first-principles understanding of camera systems and modern machine learning methods used in visual perception and video processing, with an emphasis on how image data is transformed into structured representations for downstream tasks.  
 
 My professional work focuses on designing and shipping end-to-end camera and vision features in production systems.
 
@@ -139,6 +139,16 @@ This portfolio reflects a structured effort to build deep understanding across:
 - Control and perception  
 
 These areas intersect heavily in modern camera and vision technologies.
+
+---
+
+# Systems Perspective
+
+Modern vision systems require tight integration across the full stack:
+
+Sensor → ISP → GPU / NPU → ML → Representation → Decision
+
+This portfolio reflects an effort to understand and build across this pipeline, with attention to real-time constraints, system trade-offs, and deployment considerations.
 
 ---
 
